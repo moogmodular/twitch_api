@@ -1,0 +1,79 @@
+/*COLORS:
+FF8E00
+FF9919
+FF8E00
+0076B2
+00A9FF
+*/
+
+html, body {
+    min-height: 100vh;
+    margin: 0;
+    overflow-x: hidden;
+    background-color: #ff8e00;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-weight: 300;
+    color: #0076B2;
+}
+
+p {
+    color: white;
+}
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.container {
+    margin-top: 25vh;
+}
+
+#head {
+    background-color: #FF9919;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+
+#content {
+    background-color: #FF9919;
+    padding: 20px;
+}
+
+.btn-success {
+    font-family: 'Press Start 2P', cursive;
+    border: 2px solid #0099cc;
+    color: #0076B2;
+    background-color: transparent;
+}
+
+.btn-group-sm {
+    margin-top: 25px;
+}
+
+.online-div {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #00A9FF;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.offline-div {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #0076B2;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.online-h3 {
+    color: #FF9919;
+}
